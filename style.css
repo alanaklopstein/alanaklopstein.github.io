@@ -1,0 +1,38 @@
+/* fonts */
+.coming-soon {
+  font-family: 'Coming Soon', cursive;
+}
+
+.raleway {
+  font-family: 'Raleway', sans-serif;
+}
+
+/* heading */
+h1 {
+  margin-top: 180px;
+  margin-bottom: 10px;
+  font-size: 80px;
+  font-weight: lighter;
+}
+
+/* content */
+p {
+  font-family: 'Raleway', sans-serif;
+
+}
+
+/* footer */
+footer {
+  margin-top: 80px;
+  width: 100%;
+}
+
+.credit {
+  font-size: 7px;
+  color: gray;
+  margin-top: 15px;
+}
+
+.gray {
+  color: gray;
+}
